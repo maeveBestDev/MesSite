@@ -17,6 +17,8 @@
         <p>Le site sur lequel vous êtes est fait pour exibher et lister mes projets réaliser.</p>
         <p>Le site de <a href="https://nsi-team.github.io/GIF_mignon/">GIF Mignon</a> à été réaliser suite à un travail demander en classe avec deux autres collègues. Ce site liste de nombreux GIF ranger dans plusieurs catégories.</p>
 
+          <div class="image" style="background-image:url(https://media.discordapp.net/attachments/884718653348667412/885485954595450880/abstract-grunge-decorative-relief-navy-blue-stucco-wall-texture-wide-angle-rough-colored-background.jpg?width=860&height=427)"></div>
+        
 <p></p>
     <button><a href="https://maevebestdev.github.io/Main_Page/">Retour à l'acceuil</a></button>
     <p> </p>
