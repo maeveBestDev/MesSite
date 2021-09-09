@@ -15,7 +15,7 @@
 </form><img class="project-pic" src="https://m.gifmania.be/Gif-Animes-Jeux-Video/Animations-Jeux-Video-Arcade-Classiques/Images-Gif-Jeux-Video-Classiques/Jeux-Video-Classiques-67074.gif" style="width: 150px;" />
 
 <p></p>
-    <button><a href="https://maevebestdev.github.io/GIF_Mignon/">Retour à l'acceuil</a></button>
+    <button><a href="https://maevebestdev.github.io/Main_Page/">Retour à l'acceuil</a></button>
     <p> </p>
     <a href="https://maevebestdev.github.io/About_Us/">About us</a>
     <p></p>
