@@ -3,6 +3,7 @@
         <link rel="stylesheet" type="text/css" href="style.css">
         <meta charset="utf-8">
         <title>Maeve's Site UwU/Sites</title>
+        <link rel="icon" type="image/png" sizes="16x16" href="https://media.discordapp.net/attachments/884718653348667412/885860324513828925/favicon.png?width=427&height=427">
     </head>
 
   <body>
