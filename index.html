@@ -1,4 +1,4 @@
-<html lang="fr">
+<html lang="en">
     <head>
         <link rel="stylesheet" type="text/css" href="style.css">
         <meta charset="utf-8">
@@ -14,17 +14,15 @@
      aria-label="Rechercher parmi le contenu du site">
     <button>Rechercher</button>
   </div>
-        <h1>Mes Sites Web :</h1>
-        <p>Ici est listé tout les sites web que j'ai faits. Bien sûr le site sur lequel vous êtes actuellement mais aussi un autre réaliser avec des collègues pour un projet demander en cours.</p>
-        <p>Le site sur lequel vous êtes est fait pour exhiber et lister mes projets réaliser.</p>
-        <p>Le site de <a href="https://nsi-team.github.io/GIF_mignon/">GIF Mignon</a> a été réalisé suite à un travail demander en classe avec deux autres collègues. Ce site liste de nombreux GIF rangeait dans plusieurs catégories..</p>
-
-          <div class="image" style="background-image:url(https://media.discordapp.net/attachments/884718653348667412/885540768163442688/totalement_2.png?width=509&height=42)"></div>
+        <h1>My Websites :</h1>
+        <p>Here is listed all the websites I've done. Of course the site on which you are currently on but also another one to carry out with colleagues for a project requested at school.</p>
+        <p>The website you are on is made to show and list my projects.</p>
+        <p>The website <a href="https://nsi-team.github.io/GIF_mignon/">GIF Mignon</a> was carried out following a task requested in class with two other colleagues. This site lists many GIFs in several categories.</p>
         
 <p></p>
-    <button><a href="https://maevebestdev.github.io/Main_Page/">Retour à l'acceuil</a></button>
+    <button><a href="https://maevebestdev.github.io/Main_Page/">Back to Home</a></button>
     <p> </p>
-    <a href="https://maevebestdev.github.io/About_Us/">About us</a>
+    <a href="https://maevebestdev.github.io/About_Us/">About me</a>
     <a href="https://maevebestdev.github.io/Help/">Help</a>
-    <a href="https://maevebestdev.github.io/Contact_Us/">Contact us</a>
+    <a href="https://maevebestdev.github.io/Contact_Us/">Contact me</a>
 
