@@ -10,10 +10,12 @@
     <form role="search">
   <div>
     <input type="search" id="maRecherche" name="q"
-     placeholder="Rechercher sur le site…"
+     placeholder="Search the site..."
      aria-label="Rechercher parmi le contenu du site">
-    <button>Rechercher</button>
+    <button>Research</button>
   </div>
+</form>
+      
         <h1>My Websites :</h1>
         <p>Here is listed all the websites I've done. Of course the site on which you are currently on but also another one to carry out with colleagues for a project requested at school.</p>
         <p>The website you are on is made to show and list my projects.</p>
